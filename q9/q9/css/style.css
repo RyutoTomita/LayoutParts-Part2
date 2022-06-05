@@ -54,6 +54,7 @@
   height: 200px;
   background-color: #331aefd0;
   margin: 0 auto;
+  transition: .5s;
 }
 
 .hover--color:hover {
@@ -75,3 +76,4 @@
 .height--prolongation:hover {
   height: 300px;
 }
+
